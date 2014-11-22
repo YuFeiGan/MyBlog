@@ -88,3 +88,7 @@ deploy:
   type: github
   repo: https://github.com/YuFeiGan/YuFeiGan.github.io.git
   branch: master
+
+
+plugins:
+	- hexo-math
